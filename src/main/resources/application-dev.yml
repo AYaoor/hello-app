@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /
+
+hello:
+   content: 你好
+   version: v1.0.0
